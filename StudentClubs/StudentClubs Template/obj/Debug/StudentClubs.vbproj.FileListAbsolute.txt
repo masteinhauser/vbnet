@@ -1,0 +1,17 @@
+N:\Courses\Courses\VB.NET\Week 11\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.exe
+N:\Courses\Courses\VB.NET\Week 11\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.xml
+N:\Courses\Courses\VB.NET\Week 11\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.pdb
+C:\Users\KKL\Desktop\school\fall 2011\vb\Week 10\StudentClubs Template\obj\Debug\StudentClubs.exe
+C:\Users\KKL\Desktop\school\fall 2011\vb\Week 10\StudentClubs Template\obj\Debug\StudentClubs.xml
+C:\Users\KKL\Desktop\school\fall 2011\vb\Week 10\StudentClubs Template\obj\Debug\StudentClubs.pdb
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.exe
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.xml
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.pdb
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\bin\StudentClubs.exe
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\bin\StudentClubs.pdb
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\bin\StudentClubs.xml
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.frmStudentClubs.resources
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\StudentClubs.frmStudentSearch.resources
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kloewenhagen\Desktop\StudentClubs Template\StudentClubs Template\obj\Debug\GenerateResource-ResGen.write.1.tlog

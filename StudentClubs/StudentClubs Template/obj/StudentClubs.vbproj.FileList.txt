@@ -1,0 +1,10 @@
+obj\Debug\StudentClubs.exe
+obj\Debug\StudentClubs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StudentClubs.frmStudentClubs.resources
+obj\Debug\StudentClubs.frmStudentSearch.resources
+obj\Debug\StudentClubs.vbproj.GenerateResource.Cache
+obj\Debug\StudentClubs.xml
+bin\StudentClubs.exe
+bin\StudentClubs.pdb
+bin\StudentClubs.xml
